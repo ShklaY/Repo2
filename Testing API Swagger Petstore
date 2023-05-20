@@ -4,4 +4,5 @@
 import requests
 url = 'https://petstore.swagger.io/'
 
-..
+r = requests.get(url)
+
