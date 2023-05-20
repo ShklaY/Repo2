@@ -1,0 +1,7 @@
+Цей файл просто текстовик(блокнот)
+
+
+import requests
+url = 'https://petstore.swagger.io/'
+
+..
